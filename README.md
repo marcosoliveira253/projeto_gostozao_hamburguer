@@ -26,4 +26,8 @@ Além disso, criei duas interfaces de gerenciamento:
 Essa combinação de tecnologias web demonstra como é possível criar aplicações funcionais e amigáveis para
 operações de negócios, como o gerenciamento de inventário.
 
-![texto alternativo](https://markdown.net.br/assets/img/basic-syntax/markdown-logo-small.png)
+![texto alternativo](https://github.com/marcosoliveira253/projeto_gostozao_hamburguer/blob/main/img/localhost_hanburgueria_4_painel.php.png);
+
+![texto alternativo](https://github.com/marcosoliveira253/projeto_gostozao_hamburguer/blob/main/img/localhost_hanburgueria_4_admin_sistemaProd.php.png)
+
+![texto alternativo](https://github.com/marcosoliveira253/projeto_gostozao_hamburguer/blob/main/img/localhost_hanburgueria_4_admin_sistemaUser.php.png)
