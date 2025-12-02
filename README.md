@@ -1,3 +1,12 @@
+
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/marcosoliveira253/projeto_gostozao_hamburguer/main/img/localhost_hanburgueria_4_painel.php.png" width="50%" />
+  <img src="https://raw.githubusercontent.com/marcosoliveira253/projeto_gostozao_hamburguer/main/img/localhost_hanburgueria_4_admin_sistemaProd.php.png" width="45%" />
+  <img src="https://raw.githubusercontent.com/marcosoliveira253/projeto_gostozao_hamburguer/main/img/localhost_hanburgueria_4_admin_sistemaUser.php.png" width="45%" />
+</p>
+
+
 # Gostozão Hamburguer 🍔
 
 Bem-vindo ao **Gostozão Hamburguer** — um site de e-commerce para pedidos online de hambúrgueres, refrigerantes e sucos.  
@@ -75,13 +84,3 @@ Este projeto está sob a licença MIT — veja o arquivo LICENSE para detalhes.
 
 
 ---
-
-
-
-
-
-![texto alternativo](https://github.com/marcosoliveira253/projeto_gostozao_hamburguer/blob/main/img/localhost_hanburgueria_4_painel.php.png);
-
-![texto alternativo](https://github.com/marcosoliveira253/projeto_gostozao_hamburguer/blob/main/img/localhost_hanburgueria_4_admin_sistemaProd.php.png)
-
-![texto alternativo](https://github.com/marcosoliveira253/projeto_gostozao_hamburguer/blob/main/img/localhost_hanburgueria_4_admin_sistemaUser.php.png)
