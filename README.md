@@ -1,30 +1,84 @@
-# Gostozão Hamburguer
-O Gostozão Hamburguer é um site de e-commerce que permite aos usuários fazerem pedidos online de hambúrgueres deliciosos. Neste projeto, criei a plataforma do zero, combinando várias tecnologias web para oferecer uma experiência completa aos clientes.
+# Gostozão Hamburguer 🍔
 
-## Principais Aspectos do Projeto
-## 1. Estruturação e Informações com HTML
-- Utilizei HTML para estruturar o site. Criei uma listagem detalhada de produtos, incluindo hambúrgueres,
-- refrigerantes e sucos. As informações sobre cada item, como descrições e preços, foram essenciais para o funcionamento do site.
-## 2. Estilização Visual com CSS
-Implementei estilos atraentes usando CSS. O layout responsivo se adaptava a diferentes dispositivos, 
-e as cores vibrantes tornaram a aparência do site convidativa e apetitosa.
-## 3. Interatividade do Usuário com JavaScript
-Adicionei interatividade ao site usando JavaScript. Os botões de compra animados e a atualização 
-dinâmica do carrinho proporcionaram uma experiência de usuário fluida.
-## 4. Back-End Robusto com PHP
-No lado do servidor, integrei o PHP para processar pedidos e gerenciar transações. Isso garantiu segurança
-e eficiência nas compras online.
-# Recursos Adicionais
-Além disso, criei duas interfaces de gerenciamento:
+Bem-vindo ao **Gostozão Hamburguer** — um site de e-commerce para pedidos online de hambúrgueres, refrigerantes e sucos.  
+Este projeto foi criado do zero com tecnologias web clássicas (HTML, CSS, JavaScript e PHP) para oferecer uma experiência completa de compra, além de um painel administrativo para gestão de produtos e usuários.
 
-1. Edição de Produtos:
-- Colunas: “ID”, “Nome”, “Tipo”, “Valor” e “Imagem”.
-- Permite editar e excluir produtos.
-2. Edição de Usuários:
-- Colunas: “ID”, “Nível de Acesso”, “Nome” e “Email”.
-- Facilita o gerenciamento dos usuários do sistema.<br><br>
-Essa combinação de tecnologias web demonstra como é possível criar aplicações funcionais e amigáveis para
-operações de negócios, como o gerenciamento de inventário.
+---
+
+## ⚙️ Tecnologias utilizadas
+
+- HTML — estrutura e marcação das páginas  
+- CSS — estilos visuais e responsividade  
+- JavaScript — interatividade no front-end (carrinho, botões de compra etc.)  
+- PHP — back-end para lógica de negócio, controle de pedidos e autenticação  
+- (Opcional) MySQL / banco de dados — se estiver usando persistência para produtos/usuários (adeque conforme seu setup)  
+
+---
+
+## 🧰 Funcionalidades principais
+
+- Listagem de produtos (hambúrgueres, bebidas etc.) com nome, descrição, preço e imagem  
+- Adição ao “carrinho de compras”  
+- Sistema de cadastro/login de usuários  
+- Painel administrativo para:  
+  - Cadastrar, editar e excluir produtos  
+  - Gerenciar usuários (nível de acesso, dados, permissões)  
+- Interface responsiva — compatível com dispositivos móveis e desktop  
+
+---
+
+## 📥 Como executar o projeto localmente
+
+1. Clone o repositório:  
+   ```bash
+   git clone https://github.com/marcosoliveira253/projeto_gostozao_hamburguer.git
+
+2. Copie os arquivos para o seu servidor local (XAMPP, WAMP, MAMP etc.) ou configure um servidor PHP + MySQL.
+
+3. (Se houver banco de dados) Importe o schema SQL ou crie as tabelas necessárias.
+
+4. Acesse via navegador (ex: http://localhost/projeto_gostozao_hamburguer/index.php)
+
+    ⚠️ Se for necessário ajustar variáveis de conexão, edite o arquivo conexao.php com os dados corretos de host, usuário, senha e nome do banco.
+
+📝 Estrutura de pastas (resumo)
+
+/ (raiz do projeto)
+  ├── img/           # imagens dos produtos, logos etc.
+  ├── index.php      # página principal / front-end
+  ├── registrar.php  # cadastro de usuário
+  ├── painel.php     # painel administrativo
+  ├── script.js      # scripts JavaScript para interações
+  ├── conexao.php    # conexão com banco de dados (se aplicável)
+  └── … outros arquivos de lógica/back-end
+
+Adapte esta estrutura conforme alterações e novas pastas que você adicionar.
+💡 Possíveis melhorias futuras
+
+   * Implementar sistema de pedidos/pagamentos
+
+   * Adicionar carrinho persistente por usuário (no banco de dados)
+
+   * Melhorar design e usabilidade com CSS frameworks ou responsividade avançada
+
+   * Validar formulários no back-end para maior segurança
+
+   * Adicionar logs ou histórico de pedidos
+
+👨‍💻 Autor
+
+Marcos Antonio Alves de Oliveira — desenvolvedor front-end / full-stack
+Este projeto também serve como portfólio das minhas habilidades com HTML, CSS, JS, PHP e estruturação de apps web.
+📄 Licença
+
+Este projeto está sob a licença MIT — veja o arquivo LICENSE para detalhes.
+
+
+---
+
+
+
+
 
 ![texto alternativo](https://github.com/marcosoliveira253/projeto_gostozao_hamburguer/blob/main/img/localhost_hanburgueria_4_painel.php.png);
 
